@@ -1,16 +1,17 @@
-## Hi there 👋
+# 최준영 | Junyoung Choi
 
-<!--
-**immanuelkant616-stack/immanuelkant616-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**철학에서 시작한 질문을, 직접 만들고 시험하는 일로 이어가고 있습니다.**
 
-Here are some ideas to get you started:
+학부에서는 미학과 예술학을, 대학원에서는 철학을 공부했습니다. 인간은 어떻게 자신의 생각을 돌아보며, 언어는 어떻게 세계에 관한 의미를 갖게 되는지에 관심을 가져왔습니다. 인공물을 주제로 연구하면서, 사람이 만든 시스템이 세계와 관계 맺는 방식에도 관심이 넓어졌습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 인문학에서 개발로
+
+필요한 도구를 직접 구현하고, 실제로 작동하는지 확인하는 개발자가 되고 싶습니다. AI API를 활용한 Python 도구와 데스크톱 채팅 앱 **Gemeow(제미냥이)**를 만들며, 일상과 업무에서 느낀 불편을 프로그램으로 바꾸는 작업을 이어가고 있습니다.
+
+## 로봇에 관심을 갖게 된 이유
+
+저에게 로봇은 감각과 행동을 통해 세계와 관계 맺는 시스템을 직접 만들고 살펴볼 수 있는 대상입니다. 의식·언어·경험에 관한 철학적 질문을, 물리적인 환경에서 움직이는 장치를 구현하고 관찰하는 일과 연결해 보고 싶습니다.
+
+지금은 Python과 C++을 공부하면서 **OpenRB-150과 XL330 모터 두 개로 2륜 로봇 자동차**를 만들고 있습니다. 두 모터의 제어부터 시작해 스마트폰으로 조종하는 자동차로 발전시키는 것이 다음 목표입니다. 설계와 오류 해결, 실제 시험 기록을 쌓으며 로봇 개발자로의 진로 전환을 준비하고 있습니다.
+
+**제작 기록:** [OpenRB-150 기반 2륜 로봇 자동차](https://github.com/immanuelkant616-stack/openrb-2wd-robot)
